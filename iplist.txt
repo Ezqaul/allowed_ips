@@ -1,4 +1,4 @@
 SHOW_TOTAL=1
-192.168.1.5:Ezqaul
+78.190.145.9:Ezqaul
 
 
