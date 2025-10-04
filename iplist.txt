@@ -1,2 +1,2 @@
 SHOW_TOTAL=1
-78.190.156.20:Ezqaul
+78.190.156.20 - Ezqaul
