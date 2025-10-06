@@ -1,3 +1,4 @@
 SHOW_TOTAL=1
 78.190.156.20 - Ezqaul
 85.106.194.89 - FemboyGMKN
+192.168.1.23 - askim
